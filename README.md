@@ -1,1 +1,1 @@
-# AI4ISmartTransportation
+# AI for Smart Transportation Use Case
