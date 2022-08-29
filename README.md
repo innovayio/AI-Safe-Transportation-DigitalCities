@@ -1,1 +1,1 @@
-# AI for Digital Cities: Safe Intelligent Transportation System (ITS) Use Case
+# AI for Safe Transportation Use Case - Smart Cities
