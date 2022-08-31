@@ -5,10 +5,10 @@
 
 #### The aim of this use case is utilizing AI methods and techniques can function computer vision, statistical analysis and optimization to anticipate, spot and act on such incidents prospectively including suggesting best ways to handle. On current direction adopting intelligent transportation systems nation-wide, such solution can leverage collected data from cameras, sensors and official information systems to provide capabilities to involved governmental and community sectors to act faster and more accurate. Such enhanced performance on a key sector like transportation works as cornerstone for the digital cities by enabling better planning and implementation of related services. Using Spatial AI as part of the solution can overcome the difficulties associated with transportation networks being operating on very large-scale geographies.  
 
-<p><br></p>
+<p></p>
 
 #### Who could benifit of such solution: Vehicle Drivers – Transportation Operators – Traffic Authorities – Gov Sectors – Gov Planners – Gov Executives.
 
-<p><br></p>
+<p></p>
 
 #### The use case solution has been structured using our project implementation method into 18 main activities as listed in this repo. The objective of adopting such real-life implementation si to help whomever working on developing solutions for this use case to organize effrot toward a working solution covering all aspects.  
