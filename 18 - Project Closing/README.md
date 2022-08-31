@@ -1,7 +1,7 @@
-## Project Closing for AI Solutions
-### - Overview
-### - Closing Checklist
-### - Handover Preparation
-### - Handover Workshops
-### - References & Resources
+### Project Closing for AI Solutions
+#### - Overview
+#### - Closing Checklist
+#### - Handover Preparation
+#### - Handover Workshops
+#### - References & Resources
 
