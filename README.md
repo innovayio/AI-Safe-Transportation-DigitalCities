@@ -11,4 +11,4 @@
 
 <p><br></p>
 
-### The use case solution has been structured using our project implementation method into 18 main activities
+### The use case solution has been structured using our project implementation method into 18 main activities as listed in this repo. The objective of adopting such real-life implementation si to help whomever working on developing solutions for this use case to organize effrot toward a working solution covering all aspects.  
