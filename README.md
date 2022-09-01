@@ -7,7 +7,7 @@
 
 <p></p>
 
-#### Who could benifit of such solution: Vehicle Drivers – Transportation Operators – Traffic Authorities – Gov Sectors – Gov Planners – Gov Executives.
+#### Who can benifit of such solution: Vehicle Drivers – Transportation Operators – Traffic Authorities – Gov Sectors – Gov Planners – Gov Executives.
 
 <p></p>
 
