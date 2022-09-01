@@ -13,7 +13,7 @@
 
 #### The use case solution has been structured using our project implementation method into 18 main activities as listed in this repo. The objective of adopting such real-life implementation si to help whomever working on developing solutions for this use case to organize effrot toward a working solution covering all aspects:
 
-#### 01 - Statement of Work: The SoW provides clear definition of the problem being solved and the associated challenges and pain points coming from the business domain context. It provided the scope and specifications of the solution being delivered.
+##### 01 - Statement of Work: The SoW provides clear definition of the problem being solved and the associated challenges and pain points coming from the business domain context. It provided the scope and specifications of the solution being delivered.
 #### 02 - Project Management: Planning, executing, and controlling the project in terms of scope, budged, time, quality, resources, and team assignment. Running project delivery in Lean Agile approach for lower risk and incremental delivered value.
 #### 03 - Domain Understanding: Getting deeper into the context of the relevant business domains to understand strategies, policies, drivers, challenges, pain points and desired outcomes that represent value to the business, organization, community and/or individuals.
 #### 04 - Solution Framing: Analyzing the challenges, pain points and at the same time the data in a business context to come out with solution elements especially the core machine learning models so an AI solution can deliver the desired outcome.
@@ -30,4 +30,4 @@
 #### 15 - MLOps Rollout: Based on the MLOPs design as well as the operationalization plan, actual components of MLOps are deployed in production with the three elements of data, ML model and application code so that CI/CD can commence.
 #### 16 - Solution Delivery: Defining and applying procedures to ensure the delivered AI solution components are solid and aligned with the customer organization’s ICT operations so that the solution continuously deliver value as intended.
 #### 17 - Managed Services: Setting up teaming with the customer organization to outsource all or part of the operations, support, and sustainability of the AI solution to the project team on different levels of support.
-#### 18 - Project Closing: Conducting final c
+#### 18 - Project Closing: Conducting final checks and validation of the different components of the delivered AI solution and handing over to the customer organization’s IT operations team.
