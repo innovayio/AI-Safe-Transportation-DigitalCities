@@ -13,7 +13,7 @@
 
 #### The use case solution has been structured using our project implementation method into 18 main activities as listed in this repo. The objective of adopting such real-life implementation si to help whomever working on developing solutions for this use case to organize effrot toward a working solution covering all aspects:
 
-##### 01 - Statement of Work: The SoW provides clear definition of the problem being solved and the associated challenges and pain points coming from the business domain context. It provided the scope and specifications of the solution being delivered.
+#### 01 - Statement of Work: The SoW provides clear definition of the problem being solved and the associated challenges and pain points coming from the business domain context. It provided the scope and specifications of the solution being delivered.
 #### 02 - Project Management: Planning, executing, and controlling the project in terms of scope, budged, time, quality, resources, and team assignment. Running project delivery in Lean Agile approach for lower risk and incremental delivered value.
 #### 03 - Domain Understanding: Getting deeper into the context of the relevant business domains to understand strategies, policies, drivers, challenges, pain points and desired outcomes that represent value to the business, organization, community and/or individuals.
 #### 04 - Solution Framing: Analyzing the challenges, pain points and at the same time the data in a business context to come out with solution elements especially the core machine learning models so an AI solution can deliver the desired outcome.
